@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding animation" width="100%" />
+<a href="https://aurasagara.vercel.app"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding animation" width="100%" />
 
 ### 🕒 Live Clock
 
@@ -24,7 +24,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding animation" width="100%" />
+<a href="https://aurasagara.vercel.app"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding animation" width="100%" />
 
 <br><br>
 
