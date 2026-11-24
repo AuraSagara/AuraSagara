@@ -14,17 +14,21 @@
 
 ### 🕒 Live Clock
 
-<a href="https://aurasagara.vercel.app"><img src="https://camo.githubusercontent.com/0aa0924b071eb0b2097a307168c0fac36a1b51112091befae90476139f0ea2e1/68747470733a2f2f61726e656263646e2e76657263656c2e6170702f6170692f636c6f636b3f747a3d417369612f4a616b61727461" alt="Jam real time" width="100%" /></a>
+<a href="https://aurasagara.vercel.app"><img src="https://arnebcdn.vercel.app/clock?tz=Asia/Jakarta" alt="Jam real time" width="100%" /></a>
 
 <kbd>ID</kbd> *Waktu terus berjalan, jadi manfaatkan setiap detiknya dengan sebaik-baiknya.*
 
 <kbd>EN</kbd> *Time keeps moving, so make every second count ⏳*
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding animation" width="100%" />
+
 <br><br>
 
 ### 🚀 Space Defender
 
-<a href="https://aurasagara.vercel.app"><img src="https://camo.githubusercontent.com/47d8edb6b53577f9b5a9e86b99e76260edd604a6620377e1e8ff77f9fe25c52f/68747470733a2f2f61726e656263646e2e76657263656c2e6170702f6170692f73686f6f746572" alt="Space Defender minigame" width="100%" /></a>
+<a href="https://aurasagara.vercel.app"><img src="https://arnebcdn.vercel.app/shooter" alt="Space Defender minigame" width="100%" /></a>
 
 <sub>Auto-pilot shooting aliens non-stop 👾</sub>
 
